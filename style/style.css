@@ -124,10 +124,10 @@ body {
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: 45px ;
-  left: 35%;
-  transform: scale(0.1);
+  width: 50px;
+  top:  100px;
+  left: 60%;
+  /* transform: scale(0.1); */
 }
 
 .baloons img {
@@ -235,7 +235,7 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 47%;
+    left: 50%;
   }
 }
 
@@ -281,7 +281,7 @@ body {
 
   .six .hat {
     width: 50px;
-    /* top: -50px; */
+    top: -20px;
   }
 
   .wish-hbd {
