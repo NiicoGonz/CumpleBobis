@@ -125,9 +125,9 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -5 5px;
-  left: 60%;
-  /* transform: scale(0.1); */
+  top: 15px; /* Ajustado para mover el sombrero más arriba */
+  left: 50%;
+  transform: translateX(-50%); /* Centra el sombrero horizontalmente */
 }
 
 .baloons img {
