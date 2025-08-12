@@ -125,7 +125,7 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: 15px; /* Ajustado para mover el sombrero más arriba */
+  top: 4px; /* Ajustado para mover el sombrero más arriba */
   left: 50%;
   transform: translateX(-50%); /* Centra el sombrero horizontalmente */
 }
